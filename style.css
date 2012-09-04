@@ -1,0 +1,33 @@
+span.zip_form_box {
+	border: 1px solid #666;
+	display: block;
+	padding: 14px 5px 14px 5px;
+	width: 75%;
+	margin: 40px auto 20px auto;
+}
+
+span.zip_form_title {
+	display: block;
+	background-color: #fff;
+	color: #333;
+	margin-top: -28px;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 0px 5px 0px 5px;
+	position: absolute;
+	width: auto;
+}
+
+span.zip_form_box input {
+	font-family: Verdana, sans-serif;
+	font-size: 13pt;
+}
+
+div.zip_space {
+	height: 10px;
+}
+
+#zip_message {
+	font-weight: bold;
+	color: #F00;
+}

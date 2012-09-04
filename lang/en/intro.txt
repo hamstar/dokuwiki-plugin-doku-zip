@@ -1,0 +1,3 @@
+======= Zip Backup ======
+
+This page will create a zip archive of your wiki database at the moment.  Also, you may restore your wiki database from a previous archive on this page.
